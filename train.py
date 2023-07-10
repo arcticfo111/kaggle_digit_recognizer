@@ -15,8 +15,8 @@ class PATH:
     TEST = './data/test.csv'
     
 class CONFIG:
-    lr = 0.001
-    epoch = 10
+    lr = 0.0003
+    epoch = 25
     batch_size = 256
 
 
